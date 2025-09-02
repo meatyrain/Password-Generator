@@ -1,0 +1,59 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 25px 50px 50px;
+    color: white;
+    background-color: #1F2937;
+    width: 550px;
+    border: 5px solid #10B981;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 15px 15px 15px black;
+    
+}
+
+.headlineArea{
+    display: flex;
+    justify-content: center;
+}
+
+
+.pwArea{
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    justify-content: space-between;
+}
+#PW1{
+    color: #10B981;
+    background-color: #273549;
+    border-radius: 12px;
+    width: 211px;
+    height: 40px;
+    font-size: smaller;
+}
+#PW2{
+    color: #10B981;
+    background-color: #273549;
+    border-radius: 12px;
+    width: 211px;
+    height: 40px;
+    font-size: smaller;
+}
+
+p{
+    color: #D5D4D8;
+}
+
+
+
+button{
+    color: white;
+    background-color: #10B981;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-size: small;
+    
+}
