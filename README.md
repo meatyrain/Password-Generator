@@ -3,10 +3,11 @@
 This is a simple front-end web application that generates two random, secure passwords at the click of a button. It's built to demonstrate fundamental concepts of HTML, CSS, and JavaScript, including DOM manipulation and the Clipboard API.
 
 
-## Demo
+
+## Generator UI
 
 
-*![A screenshot showcasing the UI of the password generator](images/example.png)*
+<img src="images/example.png" width="450" />
 
 ***
 
